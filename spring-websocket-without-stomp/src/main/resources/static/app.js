@@ -1,7 +1,7 @@
 
 var ws;
 var httpurl="http://realkeyip.in:8086/";
-var wsurl="realkeyip.in:8085/"
+var wsurl="realkeyip.in:8084/"
 //wsurl="localhost:8085/"
 //httpurl="http://localhost:8086/";
 function setConnected(connected) {
