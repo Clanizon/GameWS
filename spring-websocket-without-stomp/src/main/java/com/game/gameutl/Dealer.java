@@ -98,7 +98,7 @@ public class Dealer {
 					if(winner.size()>0){
 						for(Player win:winner){
 							if(players.indexOf(win)!=-1){
-								players.get(players.indexOf(win)).setWin("Yd");
+								players.get(players.indexOf(win)).setWin("Y");
 								players.get(players.indexOf(win)).setWinAmount(getWinAmount(betAmount,winner.size()));
 								
 							}											
